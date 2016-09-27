@@ -2,7 +2,6 @@ package gfycatid
 
 import (
 	"bytes"
-	"fmt"
 	"io/ioutil"
 	"math/rand"
 	"net/http"
